@@ -1,9 +1,25 @@
-![GIB-Mill_Table_01](https://user-images.githubusercontent.com/97519980/150094054-393e8aac-447b-4bab-aae1-b19ecc2e53d9.jpg)
+![GIB-Mill_Table_02](https://user-images.githubusercontent.com/97519980/150144434-693e7c4b-80e9-40cc-8c96-d188ecf88ddf.jpg)
+
 
 # About Mill Table
+The aim of this project is to design a 6 -8 person table (our prototype will be installed in our meeting room) out of standard plywood sheets, one thickness (18mm), and workable by any standard 3 axis cnc machine. The goal is to produce one file everyone could cut his own table with or use it as a base to start his own iteration of the design.
+
+There will be two main instances of this table, the first one will have a cutting mat fitted as the last layer of the table top, a second one, simpler will be frameless and will sport a plywood clean table top surface.
+
+The standard size will be 90 x 220 cm (35.4 x 86.6 inches)
 
 # Open Source Design - Fabrication 
+
 
 # Download 
 
 # License
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+Mill_Table is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), which means that the design can be shared, copied and build upon without asking permission. The only condition is that you credit the original work to GIB, and to contact us if you make any changes/improvements to the design.
+
+# Credits
+
+Project Owner : [GIB](http://studiogib.com/)
+
+Mill_Table Design : [Giorgio Gibiino](https://www.instagram.com/jj_nelson/)
