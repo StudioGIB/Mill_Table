@@ -12,7 +12,7 @@ The standard size will be 90 x 220 cm (35.4 x 86.6 inches)
 
 
 # Download 
-go to current [release](https://github.com/StudioGIB/Mill_Table/releases)
+go to current [release](https://github.com/StudioGIB/Mill_Table/releases) to download all the available files
 
 # License
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
