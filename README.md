@@ -9,12 +9,14 @@ There will be two main instances of this table, the first one will have a cuttin
 The standard size will be 90 x 220 cm (35.4 x 86.6 inches)
 
 # Open Source Design - Fabrication 
+We work on experimental design fueled by public support.
+We strongly believe in a new way of doing Architecture, one in which we share with you the process and the results of our research, designs and builds
 All of GIB's projects are open-source. That is, during the development of any one project, all the content is hosted publicly on Github. We are also available via chat rooms on [Discord](https://discord.gg/3Qf9EzJqV9).
 
 As we're mostly self-sustained, in order to keep our research free and sustainable, we're on [Patreon](https://www.patreon.com/StudioGIB) too, where you can support us with your contribute.
 
 # Download 
-go to current [release](https://github.com/StudioGIB/Mill_Table/releases) to download all the available files
+Go to current [release](https://github.com/StudioGIB/Mill_Table/releases) to download all the available files
 
 # License
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
