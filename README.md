@@ -17,9 +17,13 @@ As we're mostly self-sustained, in order to keep our research free and running, 
 
 # Roadmap
 V.0.6 - February 2022 - Build a prototype, write the assembly manual
+
 V.0.7 - March 2022 -  refine the joints - publish first frameless fork
+
 V.0.8 - April 2022 - refine the fabrication in order to make it cheaper 
+
 v.0.9 - April - May 2022 - last tests
+
 V.1.0 - Late spring - official release
 
 # Download 
