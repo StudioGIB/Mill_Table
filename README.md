@@ -4,11 +4,10 @@
 # About Mill Table
 The aim of this project is to design a 6 -8 person table (our prototype will be installed in our meeting room) out of standard plywood sheets, one thickness (18mm), and workable by any standard 3 axis cnc machine. The goal is to produce one file everyone could cut his own table with or use it as a base to start his own iteration of the design.
 
-There will be two main instances of this table, the first one will have a cutting mat fitted as the last layer of the table top, a second one, simpler will be frameless and will sport a plywood clean table top surface.
 
 The standard size will be 90 x 220 cm (35.4 x 86.6 inches)
 
-Since the original idea sprung from the necessity to design a custom table from our meeting room, our first prototype will include a self-healing mat (the green finish you can see in the pictures) as a top finish layer. As we understand that the general public won't need such a peculiar top, we plan to release a frameless all-wood version and a customizable one in order to let you finish and enrich the table with the top material of your choosing. 
+Since the original idea sprung from the necessity to design a custom table from our meeting room, our first prototype will include a self-healing mat (the green finish you can see in the pictures) as a top finish layer. As we understand that the general public won't need such a peculiar top, we plan to release a frameless all-plywood version and a customizable one in order to let you finish and enrich the table with the top material of your choosing and they will be available as forks starting after V.0.7. 
 
 # Open Source Design - Fabrication 
 We work on experimental design fueled by public support.
