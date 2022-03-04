@@ -2,8 +2,7 @@
 
 
 # About Mill Table
-The aim of this project is to design a 6 -8 person table (our prototype will be installed in our meeting room) out of standard plywood sheets, one thickness (18mm), and workable by any standard 3 axis cnc machine. The goal is to produce one file everyone could cut his own table with or use it as a base to start his own iteration of the design.
-
+The aim of this project is to design a 6 -8 person table (our prototype will be installed in our meeting room) out of standard plywood birch sheets, one thickness (18mm), and workable by any standard 3 axis cnc machine. The goal is to produce one file everyone could cut his own table with or use it as a base to start his own iteration of the design. 
 
 The standard size will be 90 x 220 cm (35.4 x 86.6 inches)
 
@@ -16,8 +15,16 @@ All of GIB's projects are open-source. That is, during the development of any on
 
 As we're mostly self-sustained, in order to keep our research free and running, we're on [Patreon](https://www.patreon.com/StudioGIB) too, where you can support us with your contribute.
 
+# Ethos
+The idea behind open sourced furniture is that anyone could take the "recipe" and build it locally.
+It cutting down the costs of transport, packaging and delivery, reducing considerably the carbon footprint of the process.
+In addition to ecological reasons, to build locally means redirecting work toward local craftsmans, thus an healtier economy.
+Choice of wood:
+Plywood (birch) is already a pretty good material, ecologically-wise, but we suggest buying FSC plywood (sourced on sustainably managed forests).
+
+
 # Roadmap
-V.0.6 - February 2022 - Build a prototype, write the assembly manual
+V.0.6 - MArch 2022 - Build a prototype, write the assembly manual
 
 V.0.7 - March 2022 -  refine the joints - publish first frameless fork
 
