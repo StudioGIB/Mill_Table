@@ -1,4 +1,6 @@
-![GIB-Mill_Table_02](https://user-images.githubusercontent.com/97519980/150144434-693e7c4b-80e9-40cc-8c96-d188ecf88ddf.jpg)
+
+
+![portrait_04](https://user-images.githubusercontent.com/97519980/196466972-a6dd5f3a-9bb9-4c03-9970-546d77aed270.jpg)
 
 
 # About Mill Table
@@ -6,7 +8,9 @@ The aim of this project is to design a 6 -8 person table (our prototype will be 
 
 The standard size will be 90 x 220 cm (35.4 x 86.6 inches)
 
-Since the original idea sprung from the necessity to design a custom table from our meeting room, our first prototype will include a self-healing mat (the green finish you can see in the pictures) as a top finish layer. As we understand that the general public won't need such a peculiar top, we plan to release a frameless all-plywood version and a customizable one in order to let you finish and enrich the table with the top material of your choosing and they will be available as forks starting after V.0.7. 
+# LOW_Frame fork
+
+Since the original idea sprung from the necessity to design a custom table from our meeting room, our first prototype included a self-healing mat (the green finish you can see in the pictures) as a top finish layer. As we understood the general public wouldn't have needed such a peculiar top, this release was based on the necessity to have a broader audience appeal to the table design. As such, small corrections where applied to the design; the outer frame was lowered, made it level with the tabletop.
 
 # Open Source Design - Fabrication 
 We work on experimental design fueled by public support.
@@ -30,9 +34,9 @@ V.0.7 - March 2022 -  refine the joints - publish first frameless fork
 
 V.0.8 - April 2022 - refine the fabrication in order to make it cheaper 
 
-v.0.9 - May 2022 - last tests
+v.0.9 - Oct 2022 - last tests
 
-V.1.0 - June / July - official release
+
 
 # Download 
 Go to current [release](https://github.com/StudioGIB/Mill_Table/releases/tag/0.8) to download all the available files
