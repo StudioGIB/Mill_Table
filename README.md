@@ -30,9 +30,9 @@ V.0.7 - March 2022 -  refine the joints - publish first frameless fork
 
 V.0.8 - April 2022 - refine the fabrication in order to make it cheaper 
 
-v.0.9 - May 2022 - last tests
+v.0.9 - Oct 2022 - last tests
 
-V.1.0 - June / July - official release
+
 
 # Download 
 Go to current [release](https://github.com/StudioGIB/Mill_Table/releases/tag/0.8) to download all the available files
