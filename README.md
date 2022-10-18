@@ -2,12 +2,12 @@
 
 ![portrait_03](https://user-images.githubusercontent.com/97519980/196459263-b234c63e-be43-4957-aec1-954507964939.jpg)
 
-# About Mill Table_
+# About Mill Table
 The aim of this project is to design a 6 -8 person table (our prototype will be installed in our meeting room) out of standard plywood birch sheets, one thickness (18mm), and workable by any standard 3 axis cnc machine. The goal is to produce one file everyone could cut his own table with or use it as a base to start his own iteration of the design. 
 
 The standard size will be 90 x 220 cm (35.4 x 86.6 inches)
 
-# No_Frame variant
+# NO_FRAME fork
 
 Since the original idea sprung from the necessity to design a custom table from our meeting room, our first prototype included a self-healing mat (the green finish you can see in the pictures) as a top finish layer. As we understood that the general public wouldn't have needed such a peculiar top, this release was designed to be lighter, thus less expensive and more versatile. The outer frame is much lighter and the table is completed with his natural plywood top.
 
