@@ -36,7 +36,7 @@ v.0.9 - Oct 2022 - last tests
 
 
 # Download 
-Go to current [release](https://github.com/StudioGIB/Mill_Table/releases/tag/0.8) to download all the available files
+Go to current [release](https://github.com/StudioGIB/Mill_Table/releases) to download all the available files
 
 # License
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
